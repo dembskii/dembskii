@@ -42,7 +42,6 @@ I enjoy solving complex problems, learning cutting-edge tools, and turning creat
 
 ## 📫 Get in Touch
 
-- **GitHub:** [github.com/DominikDembski](https://github.com/DominikDembski)
 - **Email:** [dembsky09@gmail.com](mailto:dembsky09@gmail.com)  
 
 I'm always open to collaboration and new creative challenges —  
