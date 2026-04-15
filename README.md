@@ -27,27 +27,52 @@ My experience spans building **microservices architectures** and **real-time com
 
 ### 🧱 Backend Stack
 
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> | <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /> | <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> | <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /> | <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> | <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /> |
+<table style="border: none;">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></td>
+<td><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></td>
+<td><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></td>
+<td><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></td>
+</tr>
+</table>
 
 ### 🗄️ Databases & Messaging
 
-| | | | |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /> | <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /> |
+<table style="border: none;">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></td>
+<td><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /></td>
+<td><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /></td>
+</tr>
+</table>
 
 ### 🎨 Frontend Stack
 
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> |
+<table style="border: none;">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></td>
+<td><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></td>
+<td><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /></td>
+</tr>
+</table>
 
 ### 🔧 DevOps & Tools
 
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> | <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /> | <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> | <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /> | <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /> | <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /> |
+<table style="border: none;">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></td>
+<td><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /></td>
+<td><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></td>
+<td><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></td>
+</tr>
+</table>
 
 ---
 
