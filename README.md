@@ -33,6 +33,7 @@ My experience spans building **microservices architectures** and **real-time com
 <td><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></td>
 <td><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></td>
 <td><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /></td>
+<td><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /></td>
 <td><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></td>
 <td><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></td>
 </tr>
