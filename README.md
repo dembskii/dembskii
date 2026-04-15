@@ -27,44 +27,19 @@ My experience spans building **microservices architectures** and **real-time com
 
 ### 🧱 Backend Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-</div>
+<span display="inline-flex"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></span>
 
 ### 🗄️ Databases & Messaging
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-</div>
+<span display="inline-flex"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /> <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /></span>
 
 ### 🎨 Frontend Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-</div>
+<span display="inline-flex"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /></span>
 
 ### 🔧 DevOps & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-</div>
+<span display="inline-flex"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /> <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></span>
 
 ---
 
